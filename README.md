@@ -12,8 +12,8 @@
 ---
 
 🟢 **LIVE NEON CLI EXPERIENCE**  
-🟢 **NO REAL CALLS / NO API ABUSE**  
-🟢 **DESIGN & LEARNING PURPOSE ONLY**
+🟢 **REAL CALLS / API BY ABHEEBHAI**  
+🟢 **EDUCATIONAL & LEARNING PURPOSE ONLY**
 
 </div>
 
@@ -21,14 +21,14 @@
 
 ## 🚀 About This Project
 
-**CALL BOMBER UI DEMO** is a **Termux-based hacker-style CLI interface** built purely for:
+**CALL BOMBER** is a **Termux-based hacker-style CLI interface** built purely for:
 
 - 🎨 UI / UX Design Practice  
 - 🖥️ Terminal Animations  
 - 🧠 Bash Scripting Learning  
 - 📽️ Demo Videos & Screenshots  
 
-⚠️ **This tool does NOT perform real calls or network abuse.**  
+⚠️ **This tool Working.**  
 It is a **simulation-only interface** designed to showcase terminal aesthetics.
 
 ---
