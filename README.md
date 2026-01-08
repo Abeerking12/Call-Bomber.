@@ -2,7 +2,7 @@
 
 # ⚡ CALL BOMBER ⚡
 
-### 🔥 TERMUX NEON HACKER STYLE INTERFACE 🔥  
+### 🔥 TERMUX USER PROFESSOR ABHEEBHAI 🔥  
 **Design • Animation • CLI Experience**
 
 <img src="https://img.shields.io/badge/Platform-Termux-00ffcc?style=for-the-badge">
