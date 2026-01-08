@@ -3,7 +3,7 @@
 # ⚡ CALL BOMBER ⚡
 
 ### 🔥 TERMUX USER PROFESSOR ABHEEBHAI 🔥  
-**Design • Animation • CLI Experience**
+**Developer • Coder • CLI Experience**
 
 <img src="https://img.shields.io/badge/Platform-Termux-00ffcc?style=for-the-badge">
 <img src="https://img.shields.io/badge/Language-Bash-00ff00?style=for-the-badge">
