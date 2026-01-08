@@ -1,20 +1,46 @@
-# TERMUX CAL BOMBR TOOL
+<div align="center">
 
-This is a Termux-based hacker-tool.
+# ⚡ CALL BOMBER ⚡
 
-## Installation (Termux)
+### 🔥 TERMUX NEON HACKER STYLE INTERFACE 🔥  
+**Design • Animation • CLI Experience**
 
-pkg update && pkg upgrade
-pkg install git bash
-git clone https://github.com/YOURNAME/TERMUX-UI-DEMO.git
-cd TERMUX-UI-DEMO
-bash tool.sh
+<img src="https://img.shields.io/badge/Platform-Termux-00ffcc?style=for-the-badge">
+<img src="https://img.shields.io/badge/Language-Bash-00ff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Demo--Only-ff0055?style=for-the-badge">
 
-## Features
-- Hacker-style banner
-- Colored output
-- Fake progress animation
-- Safe for learning
+---
 
-## Author
-PROXARMY zone
+🟢 **LIVE NEON CLI EXPERIENCE**  
+🟢 **NO REAL CALLS / NO API ABUSE**  
+🟢 **DESIGN & LEARNING PURPOSE ONLY**
+
+</div>
+
+---
+
+## 🚀 About This Project
+
+**CALL BOMBER UI DEMO** is a **Termux-based hacker-style CLI interface** built purely for:
+
+- 🎨 UI / UX Design Practice  
+- 🖥️ Terminal Animations  
+- 🧠 Bash Scripting Learning  
+- 📽️ Demo Videos & Screenshots  
+
+⚠️ **This tool does NOT perform real calls or network abuse.**  
+It is a **simulation-only interface** designed to showcase terminal aesthetics.
+
+---
+
+## ✨ Features
+
+- 💚 Neon Green Hacker Banner  
+- 🎭 Fake Live Processing Animation  
+- ⏳ Real-time CLI Output Effects  
+- 🎯 Clean User Input Prompts  
+- 🧩 Beginner-Friendly Bash Code  
+
+---
+
+## 📱 Preview (Termux)
