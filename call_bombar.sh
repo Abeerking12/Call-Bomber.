@@ -12,7 +12,7 @@ banner() {
     echo " ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝"
     echo -e "\e[0;32m         CALL  BOMBER\e[0m"
     echo -e "\e[1;31m[+] Developed by: PROFESSOR-ABHEEBHAI\e[0m"
-    echo -e "\e[1;34m[+] Join my WhatsApp Channel:\e[0m \e[4;36mhttps://whatsapp.com/channel/0029Vb6duo97YSd4TU5OUo3K\e[0m"
+    echo -e "\e[1;34m[+] Join my WhatsApp Channel:\e[0m \e[4;36mhttps://whatsapp.com/channel/0029Vb75PfXChq6SdkyVaF0A\e[0m"
     echo -e "\e[1;90m--------------------------------------------------\e[0m"
 }
 
